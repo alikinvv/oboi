@@ -19,6 +19,7 @@
   display: block;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 .slick-list:focus {
   outline: none;
@@ -63,6 +64,7 @@
 }
 .slick-slide img {
   display: block;
+  width: 100%;
 }
 .slick-slide.slick-loading img {
   display: none;
